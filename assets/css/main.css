@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "regular-serif";
+  src: url(/assets/type/bitter/Bitter-VariableFont_wght.ttf);
+}
+body {
+  font-size: 84px;
+  font-family: "regular-serif";
+  font-weight: 800;
+  background: rgb(17, 13, 15);
+  color: rgb(226, 237, 238);
+}
+
+main {
+  height: 100vh;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*# sourceMappingURL=main.css.map */
